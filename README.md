@@ -1,6 +1,7 @@
 # fft-microscale-homogenization
 
 If you use our code in your work, please cite this paper.
+For the further code & question, please contact: minh.nguyen@ikm.uni-hannover.de <br/>
 
 A surrogate model for computational homogenization of elastostatics at finite strain using HDMR ‐based neural network <br/>
 Authors: Vien Minh Nguyen‐Thanh, Lu Trong Khiem Nguyen, Timon Rabczuk, Xiaoying Zhuang <br/>
@@ -18,3 +19,5 @@ As for microscopic problems, an FFT‐based collocation method is applied in tan
 Particularly, we solve the microscopic equilibrium equation in the Lippmann‐Schwinger formwithout resorting to the reference medium. 
 In this manner, the fixed‐point iteration that might require quite strict numerical stability conditions in the nonlinear regime is avoided. 
 In addition, we derive the projection operator used in the FFT‐based method for homogenization of elasticity at finite strain.
+
+
