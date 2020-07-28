@@ -2,11 +2,11 @@
 
 If you use our code in your work, please cite this paper.
 
-A surrogate model for computational homogenization of elastostatics at finite strain using HDMR ‐based neural network
-Authors: Vien Minh Nguyen‐Thanh, Lu Trong Khiem Nguyen, Timon Rabczuk, Xiaoying Zhuang
-First published: 30 June 2020
-https://doi.org/10.1002/nme.6493
-<b>Abstract</b>:
+A surrogate model for computational homogenization of elastostatics at finite strain using HDMR ‐based neural network <br/>
+Authors: Vien Minh Nguyen‐Thanh, Lu Trong Khiem Nguyen, Timon Rabczuk, Xiaoying Zhuang <br/>
+First published: 30 June 2020 <br/>
+https://doi.org/10.1002/nme.6493 <br/>
+<b>Abstract</b>: <br/>
 We propose a surrogate model for two‐scale computational homogenization of elastostatics at finite strains. 
 The macroscopic constitutive law is made numerically available via an explicit formulation of the associated macro‐energy density. 
 This energy density is constructed by using a neural network architecture that mimics a high‐dimensional model representation. 
