@@ -1,7 +1,7 @@
 # fft-microscale-homogenization
 
 If you use our code in your work, please cite this paper.
-For the full code & question, please contact: minh.nguyen@ikm.uni-hannover.de <br/>
+For the full code & question, please contact: ntvminh286@gmail.com (institute email: minh.nguyen@iop.uni-hannover.de) <br/>
 
 <b>A surrogate model for computational homogenization of elastostatics at finite strain using HDMR ‐based neural network </b> <br/>
 Authors: Vien Minh Nguyen‐Thanh, Lu Trong Khiem Nguyen, Timon Rabczuk, Xiaoying Zhuang <br/>
